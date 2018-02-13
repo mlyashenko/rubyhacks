@@ -1,1 +1,1 @@
-Reusable Ruby code & snippets
+Ruby Snippets
