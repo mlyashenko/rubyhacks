@@ -1,1 +1,1 @@
-# rubyhacks
+Reusable Ruby code & snippets
